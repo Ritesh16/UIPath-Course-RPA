@@ -1,0 +1,15 @@
+﻿Successfully scraped : ScannedDocuments\BCTC-625987.pdf
+Company Name : Cordovan Limited
+Address : 6 Ludington Center; Sarasota, Florida
+Product Name : 22-Inch Wheels
+Model : Cordovan Limited
+Successfully scraped : ScannedDocuments\BCTC-695884.pdf
+Company Name : Sigma Limited
+Address : 15015 Menomonie Street, Louisville, Kentucky
+Product Name : RPG Elite
+Model : Sigma Limited
+Successfully scraped : ScannedDocuments\BCTC-783523.pdf
+Company Name : Move & Groove Limited
+Address : 62892 Loomis Pass, Dallas Texas, USA
+Product Name : GRV-E-Sport
+Model : Move & Groove Limited
