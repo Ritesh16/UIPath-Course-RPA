@@ -1,0 +1,11 @@
+Hello User,
+
+Unwanted activity was observed at {0}
+
+
+Error :
+{1}
+
+
+Thanks,
+Bot
